@@ -51,17 +51,18 @@
         p:label="Principal ID"
         p:shortLabel="Principal ID"
         p:forceUppercase="false"/>
-        
+
+  <!-- CSU: maxLength from 40 to 100 and validation Pattern from "AlphaNumericValidationPattern" p:lowerCase="true" -->        
   <bean id="KimBaseBeans-principalName" parent="KimBaseBeans-principalName-parentBean" />
   <bean id="KimBaseBeans-principalName-parentBean" parent="AttributeDefinition" abstract="true"
         p:name="principalName"
         p:forceUppercase="false"
         p:label="Principal Name"
         p:shortLabel="Principal Name"
-        p:maxLength="40"
+        p:maxLength="100"
         p:required="true" >
     <property name="validationPattern" >
-      <bean parent="AlphaNumericValidationPattern" p:lowerCase="true" />
+      <bean parent="AnyCharacterValidationPattern" p:allowWhitespace="false"/>
     </property>
     <property name="control" >
       <bean parent="TextControlDefinition" p:size="10" />
