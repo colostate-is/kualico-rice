@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1575385864874_0" label="Java Main Sources" name="Java Main Sources">
+<item elementID="=rice/rice-framework\/krad-app-framework\/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice/rice-framework\/krad-app-framework\/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice/rice-framework\/krad-data\/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice/rice-framework\/krad-data\/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice/rice-framework\/krad-service-impl\/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice/rice-framework\/krad-service-impl\/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice/rice-framework\/krad-service-impl\/src\/test\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice/rice-framework\/krad-web-framework\/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice/rice-framework\/krad-web-framework\/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice/rice-middleware\/core\/api\/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice/rice-middleware\/core\/api\/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice/rice-middleware\/core\/framework\/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice/rice-middleware\/core\/framework\/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice/rice-middleware\/core\/impl\/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice/rice-middleware\/core\/impl\/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice/rice-middleware\/core\/web\/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice/rice-middleware\/core-service\/api\/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice/rice-middleware\/core-service\/api\/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice/rice-middleware\/core-service\/framework\/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice/rice-middleware\/core-service\/impl\/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice/rice-middleware\/core-service\/impl\/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice/rice-middleware\/core-service\/web\/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice/rice-middleware\/impl\/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice/rice-middleware\/impl\/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice/rice-middleware\/kew\/api\/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice/rice-middleware\/kew\/api\/src\/test\/groovy" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice/rice-middleware\/kew\/framework\/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice/rice-middleware\/kew\/impl\/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice/rice-middleware\/kew\/impl\/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice/rice-middleware\/kim\/kim-api\/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice/rice-middleware\/kim\/kim-api\/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice/rice-middleware\/kim\/kim-framework\/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice/rice-middleware\/kim\/kim-impl\/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice/rice-middleware\/kim\/kim-impl\/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice/rice-middleware\/kns\/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice/rice-middleware\/kns\/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice/rice-middleware\/ksb\/api\/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice/rice-middleware\/ksb\/api\/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice/rice-middleware\/ksb\/client-impl\/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice/rice-middleware\/ksb\/client-impl\/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice/rice-middleware\/ksb\/server-impl\/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice/rice-middleware\/ksb\/server-impl\/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice/rice-middleware\/ksb\/web\/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice/rice-middleware\/location\/api\/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice/rice-middleware\/location\/framework\/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice/rice-middleware\/location\/impl\/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice/rice-middleware\/location\/impl\/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice/rice-middleware\/location\/web\/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice/rice-middleware\/web\/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice/rice-middleware\/web\/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-core-api/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-core-framework/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-core-impl/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-core-impl/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-core-service-api/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-core-service-impl/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-core-service-impl/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-core-web/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-core-web/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-core-service-framework/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-core-service-web/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-core-service-web/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-impl/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-impl/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-kew-api/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-kew-framework/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-kew-impl/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-kew-impl/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-kim-api/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-kim-framework/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-kim-impl/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-kim-impl/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-kns/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-kns/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-ksb-api/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-ksb-client-impl/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-ksb-client-impl/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-ksb-server-impl/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-ksb-server-impl/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-ksb-web/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-ksb-web/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-location-api/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-location-framework/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-location-impl/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-location-impl/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-location-web/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-location-web/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-krad-app-framework/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-krad-app-framework/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-krad-data/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-krad-data/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-krad-service-impl/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-krad-web-framework/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-krad-web-framework/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-serviceregistry/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-standalone/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-web/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-web/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-edl-framework/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-edl-impl/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-edl-impl/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-ken-api/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-krad-theme-builder/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-krad-theme-builder/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-checkstyle/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-client-contrib/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-db-config/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-deploy/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-deploy/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-development-tools/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-development-tools/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-impex-client-bootstrap/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-impex-client-demo/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-impex-master/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-it-krad/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-it-krad/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-kim-ldap/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-kim-ldap/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-krad-sampleapp-impl/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-krad-sampleapp-impl/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-krad-sampleapp-web/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-krad-sampleapp-web/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-krms-framework/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-legacy-web/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-sql/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-sql/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-tools-test/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-tools-test/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-xml/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-xml/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-sampleapp/src\/main\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-sampleapp/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-sampleapp/src\/it\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-impex-server-bootstrap/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-impex-server-demo/src\/main\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1575385864905_1" label="Java Test Sources" name="Java Test Sources">
+<item elementID="=rice-core-api/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-core-framework/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-core-framework/src\/test\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-core-impl/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-core-impl/src\/test\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-core-service-api/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-core-service-impl/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-impl/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-kew-impl/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-kim-api/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-kim-impl/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-kns/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-ksb-api/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-ksb-client-impl/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-ksb-client-impl/src\/test\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-ksb-server-impl/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-location-impl/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-krad-app-framework/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-krad-data/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-krad-data/src\/test\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-krad-service-impl/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-krad-service-impl/src\/test\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-krad-web-framework/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-krad-web-framework/src\/test\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-web/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-edl-impl/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-krad-theme-builder/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-client-contrib/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-it-kcb/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-it-kcb/src\/test\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-it-ken/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-it-ken/src\/test\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-it-kew-s3/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-it-kew-s3/src\/test\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-it-kns/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-it-kns/src\/test\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-it-krad/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-it-krad/src\/test\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-it-ksb/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-it-ksb/src\/test\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-krad-sampleapp-web/src\/it\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-krad-sampleapp-web/src\/test\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-krms-framework/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-krms-framework/src\/test\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-tools-test/src\/test\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-tools-test/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-sampleapp/src\/it\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-sampleapp/src\/test\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-it-impl/src\/test\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-it-krad-s3/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-it-krms/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-it-krms/src\/test\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-it-location/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-it-location/src\/test\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-it-vc/src\/test\/java" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=rice-it-vc/src\/test\/resources" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1575385982103_3" label="rice" name="rice">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-impex-server-bootstrap" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-krms-framework" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-serviceregistry" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-ksb-client-impl" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-impex-client" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-kew-api" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-it" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-core-web" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-it-krms" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-kim-framework" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-krad-web-framework" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-xml" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-core-service-web" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-ksb" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-it-impl" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-krad-sampleapp-web" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-core-impl" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-krad-app-framework" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-it-ksb" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-it-kcb" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-krad-web" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-db" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-location-impl" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-impex" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-client-contrib" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-core-service-framework" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-it-kim" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-middleware" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-core-service" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-checkstyle" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-impex-master" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-deploy" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-it-kew-s3" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-krms" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-ksb-web" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-it-kns" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-location-web" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-krms-api" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-krad-theme-builder" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-sql" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-it-edl" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-impex-client-bootstrap" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-it-kew" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-it-vc" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-sampleapp" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-edl" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-development-tools" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-kew" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-krad-sampleapp-impl" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-config" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-it-location" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-kew-framework" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-core" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-krad-theme-builder-test" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-kns" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-archetype" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-krad-development-tools" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-core-api" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-kim-impl" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-krms-impl" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-kim" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-impex-server-demo" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-it-ken" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-location" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-core-service-api" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-framework" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-it-krad-s3" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-archetype-quickstart" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-krad-sampleapp" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-location-api" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-legacy-web" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-impex-server" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-ksb-server-impl" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-impl" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-tools-test" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-it-remote" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-krad-data" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-it-krad" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-db-config" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-ken" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-krad-service-impl" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-web" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-core-service-impl" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-kim-api" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-edl-impl" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-standalone" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-edl-framework" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-kew-impl" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-location-framework" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-impex-client-demo" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-ken-api" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-kim-ldap" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-core-framework" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-it-internal-tools" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-ksb-api" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-dist" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-it-core" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/rice-krms-gen" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1575385872721_2" label="Window Working Set" name="Aggregate for window 1575385872720"/>
+</workingSetManager>
